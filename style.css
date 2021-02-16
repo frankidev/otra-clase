@@ -2,3 +2,20 @@
     margin:0;
     padding:0;
 }
+
+.row {
+    display: flex;
+}
+
+p {
+    padding: 10px;
+    border: 2px solid green;
+    
+}
+.high {
+    transition: 1s;
+}
+.active {
+    transition: 1s;
+    background: red;
+}
